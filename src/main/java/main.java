@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class main {
     public static void main(String[] args) throws ParseException {
+        System.out.println("START");
+
         Service service = new Service();
         int choice = -1;
 
